@@ -1,4 +1,14 @@
 
+        
+ICCV3-Few-Shot Image Recognition with Knowledge Transfer
+         Contributed by:
+        1-ANY-ARLENE NIYUBAHWE 
+        2-BEKRY MOHAMMEDDAWA 
+        3-NAZIR YUNUSZADE 
+        4-NITHYA SWAMINATHAN 
+        5-SOWRABHA RAVISHANKAR 
+    
+    
 Data Set:
 
 The data used in this project - “Mini-ImageNet” dataset. We have used this
