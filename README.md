@@ -50,3 +50,4 @@ implementing the code.
 specify the correct path of knowledge-based classifier model on the code
 and upload it on the code to test it using the models trained for feature
 extractors with CNN.
+Knowledge-Based classifier:https://drive.google.com/file/d/1jW_ZsG57RxWm1BbxN6sNbQCpl7Iiy0_K/view
