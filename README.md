@@ -29,6 +29,8 @@ the mini Image dataset. Dataset should be as follow:
 Then by specifying the correct path on the code it is possible to execute
 the code. All the data should be converted to “.pickle” format before
 implementing the code.
+
+
 • In order to run the testing using Vision-Knowledge Classifier, we can
 specify the correct path of knowledge-based classifier model on the code
 and upload it on the code to test it using the models trained for feature
